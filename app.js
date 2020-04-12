@@ -5,6 +5,12 @@ var bodyParser = require('body-parser')
 var campgrounds = [
   {name: 'Trout River', image: 'https://cdn.pixabay.com/photo/2016/01/19/16/48/teepee-1149402_960_720.jpg'},
   {name: 'Marble Mesa', image: 'https://cdn.pixabay.com/photo/2016/11/21/14/31/vw-bus-1845719_960_720.jpg'},
+  {name: 'Jackal\' Excitement', image: 'https://cdn.pixabay.com/photo/2016/11/22/23/08/adventure-1851092_960_720.jpg'},
+  {name: 'Trout River', image: 'https://cdn.pixabay.com/photo/2016/01/19/16/48/teepee-1149402_960_720.jpg'},
+  {name: 'Marble Mesa', image: 'https://cdn.pixabay.com/photo/2016/11/21/14/31/vw-bus-1845719_960_720.jpg'},
+  {name: 'Jackal\' Excitement', image: 'https://cdn.pixabay.com/photo/2016/11/22/23/08/adventure-1851092_960_720.jpg'},
+  {name: 'Trout River', image: 'https://cdn.pixabay.com/photo/2016/01/19/16/48/teepee-1149402_960_720.jpg'},
+  {name: 'Marble Mesa', image: 'https://cdn.pixabay.com/photo/2016/11/21/14/31/vw-bus-1845719_960_720.jpg'},
   {name: 'Jackal\' Excitement', image: 'https://cdn.pixabay.com/photo/2016/11/22/23/08/adventure-1851092_960_720.jpg'}
 ]
 
